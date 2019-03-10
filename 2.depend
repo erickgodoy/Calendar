@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523746150 source:c:\users\aoros\desktop\www\2\main.cpp
+	<iostream>
+	<stdio.h>
+
+1523746150 source:c:\users\aoros\desktop\c++\2\main.cpp
+	<iostream>
+	<stdio.h>
+
